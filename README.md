@@ -88,7 +88,7 @@ Swiggy-Sales-Analysis/
 
 ## Dashboard Preview
 
-"D:\Data Analytics\Projects\Swiggy_Sales_Analysis\Dashboard Image.png"
+![Dashboard](https://github.com/...)
 
 ## Conclusion
 
