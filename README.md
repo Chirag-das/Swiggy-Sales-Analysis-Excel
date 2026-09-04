@@ -88,7 +88,8 @@ Swiggy-Sales-Analysis/
 
 ## Dashboard Preview
 
-![Dashboard](https://github.com/...)
+<img width="1346" height="746" alt="dashboard" src="https://github.com/user-attachments/assets/1e46c215-6c47-4e6c-bde8-d972944599be" />
+
 
 ## Conclusion
 
