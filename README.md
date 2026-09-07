@@ -83,7 +83,7 @@ Swiggy-Sales-Analysis/
 ├── BUSINESS_INSIGHTS.md
 ├── DATA_DICTIONARY.md
 ├── Swiggy Sales Data.xlsx
-└── dashboard.png
+└── Final Dashboard.png
 ```
 
 ## Dashboard Preview
