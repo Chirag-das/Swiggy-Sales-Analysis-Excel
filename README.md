@@ -40,7 +40,7 @@ The project converts raw transactional data into a management-friendly dashboard
 - Top 5 cities by sales
 - Sales by food type
 - Quarter-wise sales, orders and average rating
-- Interactive slicers for Month, Food Type, State and Category
+- Interactive slicers for Month, Food Type, and State
 
 ## Key Business Insights
 
